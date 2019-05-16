@@ -26,6 +26,6 @@ WoolYeild_sheep,绵羊毛产量 (所有绵羊毛品类),Wool yeild from sheep (t
 WoolYeild_sheep_fine,细绵羊毛产量,Wool yeild from sheep (fine),吨: t
 WoolYeild_sheep_semi,半细绵羊毛产量,Wool yeild from sheep (semi),吨: t
 WoolYeild_goat_thick,粗山羊毛产量,Wool yeild from goat (thick),吨: t
-WoolYeild_goat_cashmere,山羊绒产量,Wool yeild from goat (cashmere),万吨: t
+WoolYeild_goat_cashmere,山羊绒产量,Wool yeild from goat (cashmere),吨: t
 EggYeild,禽蛋产量,Egg yeild from poultry,万吨: 10000 t
 HoneyYeild,蜂蜜产量,Honey yeild,万吨: 10000 t
