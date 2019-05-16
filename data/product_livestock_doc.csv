@@ -1,6 +1,6 @@
 Feild name,中文解释,Explanation,单位:Unit
-AreaName,地区名字(省级),Area(provincial)
-Year,年份,Year
+AreaName,地区名字(省级),Area(provincial),Nan
+Year,年份,Year,Nan
 Stock_largeAni,大动物存栏量(牛&马&驴&骡&骆驼),Stock of cattle&hores&donkey&mule&camel,万只:10000 #
 Stock_cattle,牛存栏量,Stock of cattle,万只:10000 #
 Stock_horse,马存栏量,Stock of horse,万只:10000 #
