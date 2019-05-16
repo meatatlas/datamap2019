@@ -15,17 +15,17 @@ Stock_sheep,绵羊存栏量,Stock of sheep,万只:10000 #
 Out_cattle,牛出栏量,Output of cattle,万只:10000 #
 Out_gt_shp,羊出栏量,Output of sheep,万只:10000 #
 Out_poultry,家禽出栏量,Output of poultry,万只:10000 #
-MeatYeild,肉类产量(所有品类),Meat yeild from all kind of livestock,万吨:10000 #
-MeatYeild_hg_ct_gt_shp,主要家畜的肉类产量(牛&猪&山羊&绵羊),Meat yeild from cattle&hog&goat&sheep,万吨:10000 #
-MeatYeild_hog,猪肉产量,Meat yeild from hog,万吨:10000 #
-MeatYeild_cattle,牛肉产量,Meat yeild from cattle,万吨:10000 #
-MeatYeild_gt_shp,羊肉产量(山羊&绵羊),Meat yeild from goat&sheep,万吨:10000 #
-MilkYeild,奶产量(所有品类),Milk yeild from all kind of livestock,万吨:10000 #
-MilkYeild_cattle,牛奶产量,Milk yeild from cattle,万吨:10000 #
-WoolYeild_sheep,绵羊毛产量(所有绵羊毛品类),Wool yeild from sheep(total),万吨:10000 #
-WoolYeild_sheep_fine,细绵羊毛产量,Wool yeild from sheep(fine),万吨:10000 #
-WoolYeild_sheep_semi,半细绵羊毛产量,Wool yeild from sheep(semi),万吨:10000 #
-WoolYeild_goat_thick,粗山羊毛产量,Wool yeild from goat(thick),万吨:10000 #
-WoolYeild_goat_cashmere,山羊绒产量,Wool yeild from goat(cashmere),万吨:10000 #
-EggYeild,禽蛋产量,Egg yeild from poultry,万吨:10000 #
-HoneyYeild,蜂蜜产量,Honey yeild,万吨:10000 #
+MeatYeild,肉类产量(所有品类),Meat yeild from all kind of livestock,万吨:10000 t
+MeatYeild_hg_ct_gt_shp,主要家畜的肉类产量(牛&猪&山羊&绵羊),Meat yeild from cattle&hog&goat&sheep,万吨:10000 t
+MeatYeild_hog,猪肉产量,Meat yeild from hog,万吨:10000 t
+MeatYeild_cattle,牛肉产量,Meat yeild from cattle,万吨:10000 t
+MeatYeild_gt_shp,羊肉产量(山羊&绵羊),Meat yeild from goat&sheep,万吨:10000 t
+MilkYeild,奶产量(所有品类),Milk yeild from all kind of livestock,万吨:10000 t
+MilkYeild_cattle,牛奶产量,Milk yeild from cattle,万吨:10000 t
+WoolYeild_sheep,绵羊毛产量(所有绵羊毛品类),Wool yeild from sheep(total),吨:t
+WoolYeild_sheep_fine,细绵羊毛产量,Wool yeild from sheep(fine),吨:t
+WoolYeild_sheep_semi,半细绵羊毛产量,Wool yeild from sheep(semi),吨:t
+WoolYeild_goat_thick,粗山羊毛产量,Wool yeild from goat(thick),吨:t
+WoolYeild_goat_cashmere,山羊绒产量,Wool yeild from goat(cashmere),万吨:10000 t
+EggYeild,禽蛋产量,Egg yeild from poultry,万吨:10000 t
+HoneyYeild,蜂蜜产量,Honey yeild,万吨:10000 t
