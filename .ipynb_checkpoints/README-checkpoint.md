@@ -16,7 +16,7 @@
 
 数据字段及说明：
 
-Feild name,中文解释,Explanation,单位:Unit
+字段名,中文解释,英文解释,单位(中文:En)
 AreaName,地区名字(省级),Area(provincial)
 Year,年份,Year
 Stock_largeAni,大动物存栏量(牛&马&驴&骡&骆驼),Stock of cattle&hores&donkey&mule&camel,万只:10000 #
