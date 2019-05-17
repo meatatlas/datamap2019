@@ -2,12 +2,11 @@
 中国
 
 ## 数据说明
-### 原始数据存储目录
  
-- [数据根目录 - data](https://github.com/good-food/datamap2019/tree/master/data)
-    - [畜禽生产数据 - product_livestock.csv](https://github.com/good-food/datamap2019/blob/master/data/product_livestock_raw.csv)
-    - [水产生产数据 - product_quatic.csv](https://github.com/good-food/datamap2019/blob/master/data/product_quatic_raw.csv)
-    - [主要食品消费数据(分地区) - consumption_mainfood_areas.csv](https://github.com/good-food/datamap2019/tree/master/data/consumption_mainfood_areas_raw.csv)
+- [原始数据根目录 - data](https://github.com/good-food/datamap2019/tree/master/data)
+    - [畜禽生产数据 - product_livestock_raw.csv](https://github.com/good-food/datamap2019/blob/master/data/product_livestock_raw.csv)
+    - [水产生产数据 - product_quatic_raw.csv](https://github.com/good-food/datamap2019/blob/master/data/product_quatic_raw.csv)
+    - [主要食品消费数据(分地区) - consumption_mainfood_areas_raw.csv](https://github.com/good-food/datamap2019/tree/master/data/consumption_mainfood_areas_raw.csv)
     
 
 ### 家畜生产数据
