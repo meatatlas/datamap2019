@@ -1,6 +1,6 @@
 Field name,中文解释,Explanation,单位: Unit
 AreaName,地区 (省级),Area (provincial),Nan
-Year,年份,Year,Nan,
+Year,年份,Year,Nan
 Aqu_sum,水产总产量,Aquatic total yield (sea&fresh water),万吨: 10000 t
 AquSW,海产品产量,Aquatic yield from sea water (fish&crust&shell&algae&other; catching&aquaculture),万吨: 10000 t
 AquSW_grow,海产品捕捞产量,Aquatic yield by catching from sea water,万吨: 10000 t
