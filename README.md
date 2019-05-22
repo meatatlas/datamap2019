@@ -25,6 +25,16 @@ Latest Update:
 
 @贪杯
 
+# **名词解释 Glossary**
+@Sheldon
+
+中文名|En|解释|Explanation
+存栏量|Stock||
+出栏量|Slaughtered||
+
+
+
+
 # **前言 Introduction**
 @Sheldon
 
@@ -44,17 +54,17 @@ Latest Update:
 **项目名称：stock_livestock_cn**
 
 数据来源：
-- Stock (存栏量): [FAOSTAT](http://www.fao.org/faostat/en/#data) - Production - Live Animals - Stock - Including All Items and Years.
+- 存栏量: [FAOSTAT](http://www.fao.org/faostat/en/#data) - Production - Live Animals - Stock
 
 
 **项目名称：primary_livestock_cn**
 
 数据来源：
-- Primary (出栏量, 总产量, 单只动物产量): [FAOSTAT](http://www.fao.org/faostat/en/#data) - Production - Livestock Primary - Slautered, Yield, and Production - Including All Items and Years.
+- 出栏量, 总产量, 单只动物产量: [FAOSTAT](http://www.fao.org/faostat/en/#data) - Production - Livestock Primary - Slautered, Yield, and Production
 
 
 **项目名称：product_livestock_cn**
-- 以上两表 (Stock 和 Primary) 的**总表**
+- 对以上两表 (Stock 和 Primary) 的进行整理的结果
 
 数据字段说明：
 
@@ -80,7 +90,7 @@ Raw Path: https://raw.githubusercontent.com/good-food/datamap2019/master/data/pr
 
 数据维护：
 
-### **1.3 水产生产数据**
+### **1.3 水产生产数据 - 全国总量以及各地区**
 
 项目名称：product_aqutic
 
@@ -118,6 +128,12 @@ Raw Path: https://raw.githubusercontent.com/good-food/datamap2019/master/data/pr
 - 中国统计年鉴(1999以来)
 
 数据维护：
+
+## 2 数据预处理
+### 2.1 全国肉类食品生产状况
+从原始数据中整理出以下指标：
+1978年以来，全国
+
 
 # **结果 Results**
 @Sheldon
