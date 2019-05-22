@@ -77,7 +77,7 @@ Raw Path: https://raw.githubusercontent.com/good-food/datamap2019/master/data/pr
 
 ### **1.3 水产生产数据**
 
-项目项目名称：product_aqutic
+项目名称：product_aqutic
 
 原始数据 Raw Path: https://raw.githubusercontent.com/good-food/datamap2019/master/data/product_aqutic_raw.csv
 
