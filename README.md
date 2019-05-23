@@ -28,11 +28,12 @@ Latest Update:
 # **名词解释 Glossary**
 @Sheldon
 
-中文名|En|解释|Explanation
-存栏量|Stock||
-出栏量|Slaughtered||
-
-
+|中文|En|解释|Explanation|
+|----|----|----|----|
+|存栏|Stock|||
+|出栏|Slaughtered|||
+|产量|Production|
+|单位产量|Yield|
 
 
 # **前言 Introduction**
@@ -129,8 +130,8 @@ Raw Path: https://raw.githubusercontent.com/good-food/datamap2019/master/data/pr
 
 数据维护：
 
-## 2 数据预处理
-### 2.1 全国肉类食品生产状况
+## **2 数据预处理**
+### **2.1 全国肉类食品生产状况**
 从原始数据中整理出以下指标：
 1978年以来，全国
 
