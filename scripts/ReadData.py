@@ -1,7 +1,11 @@
+import numpy as np
+import pandas as pd
+
 class ReadData():
     """
-    # Usage:
-    # df = ReadData(file_name, url).createDF() 
+    import pandas at first
+    Usage:
+    df = ReadData(file_name, url).createDF() 
     """
     def __init__(self, file_name, 
                  url = None,
@@ -48,7 +52,6 @@ class ReadData():
         else: print('no such file:%s'%self.file_name)
 
     def createDF(self):
-        import pandas as pd
         import time
         print(self.file_name, 'is under dealing... needs 1 min')
         self.curl()

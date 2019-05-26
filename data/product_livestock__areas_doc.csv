@@ -1,5 +1,5 @@
 Field name,中文解释,Explanation,单位: Unit
-AreaName,地区 (省级),Area (provincial),Nan
+Area,地区 (省级),Area (provincial),Nan
 Year,年份,Year,Nan
 Stock_largeAni,大动物存栏量 (牛&马&驴&骡&骆驼),Stock of cattle&hores&donkey&mule&camel,万只: 10000 #
 Stock_cattle,牛存栏量,Stock of cattle,万只: 10000 #
@@ -7,8 +7,8 @@ Stock_horse,马存栏量,Stock of horse,万只: 10000 #
 Stock_donkey,驴存栏量,Stock of donkey,万只: 10000 #
 Stock_mule,骡存栏量,Stock of mule,万只: 10000 #
 Stock_camel,骆驼存栏量,Stock of camel,万只: 10000 #
-Slau_hog,猪出栏量,Slaughtered hog,万只: 10000 #
-Stock_hog,猪存栏量,Stock of hog,万只: 10000 #
+Slau_pig,猪出栏量,Slaughtered pig,万只: 10000 #
+Stock_pig,猪存栏量,Stock of pig,万只: 10000 #
 Stock_gt_shp,羊存栏量 (绵羊&山羊),Stock of sheep&goat,万只: 10000 #
 Stock_goat,山羊存栏量,Stock of goat,万只: 10000 #
 Stock_sheep,绵羊存栏量,Stock of sheep,万只: 10000 #
@@ -16,8 +16,8 @@ Slau_cattle,牛出栏量,Slaughtered cattle,万只: 10000 #
 Slau_gt_shp,羊出栏量,Slaughtered sheep,万只: 10000 #
 Slau_poultry,家禽出栏量,Slaughtered poultry,万只: 10000 #
 MeatProd,肉类产量 (所有品类),Meat production from all kind of livestock,万吨: 10000 t
-MeatProd_hg_ct_gt_shp,主要家畜的肉类产量 (牛&猪&山羊&绵羊),Meat production from cattle&hog&goat&sheep,万吨: 10000 t
-MeatProd_hog,猪肉产量,Meat production from hog,万吨: 10000 t
+MeatProd_hg_ct_gt_shp,主要家畜的肉类产量 (牛&猪&山羊&绵羊),Meat production from cattle&pig&goat&sheep,万吨: 10000 t
+MeatProd_pig,猪肉产量,Meat production from pig,万吨: 10000 t
 MeatProd_cattle,牛肉产量,Meat production from cattle,万吨: 10000 t
 MeatProd_gt_shp,羊肉产量 (山羊&绵羊),Meat production from goat&sheep,万吨: 10000 t
 MilkProd,奶产量 (所有品类),Milk production from all kind of livestock,万吨: 10000 t

@@ -1,4 +1,4 @@
-AreaName,Year,Aqu_sum,AquSW,AquSW_grow,AquSW_cult,AquSW_fish,AquSW_crust,AquSW_shell,AquSW_algae,AquSW_other,AquFW,AquFW_grow,AquFW_cult,AquFW_fish,AuFW_crust,AquFW_shell,AquFW_other
+Area,Year,Aqu_sum,AquSW,AquSW_grow,AquSW_cult,AquSW_fish,AquSW_crust,AquSW_shell,AquSW_algae,AquSW_other,AquFW,AquFW_grow,AquFW_cult,AquFW_fish,AuFW_crust,AquFW_shell,AquFW_other
 CNFC,1998,27.41,27.41,27.41,0,25.11,0.2,0.1,0,2,0,0,0,0,0,0,0
 CNFC,1999,18.3,18.3,18.3,0,9.51,0.32,8.47,0,0,0,0,0,0,0,0,0
 CNFC,2000,17.5823,17.5823,17.5823,0,7.7602,0.2194,9.6027,0,0,0,0,0,0,0,0,0
