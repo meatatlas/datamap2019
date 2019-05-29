@@ -1,10 +1,10 @@
 ﻿Item-En,项目名称: Item_Cn,Explanation-En,中文解释: Explanation-Cn,Unit-En,单位: Unit-Cn
-Area,地区,"Name of different provinces (or provincial level area); or 'China', which refers to mainland China.",中国省份（或省级地区）的名字；或者指代中国大陆的‘中国’。,10000 heads,万头
+Area,地区,"Name of different provinces (or provincial level area); or 'China', which refers to mainland China.","中国省份（或省级地区）的名字；或者指代中国大陆的""中国""",10000 heads,万头
 Year,年份,Years.,年份,10000 heads,万头
 Stock_cattle,存栏量_牛,Numbers of stocks of cattle.,牛的存栏量,10000 heads,万头
 Stock_gt_shp,存栏量_山羊&绵羊,Numbers of stocks of the total of goats and sheep.,山羊和绵羊的总存栏量,10000 heads,万头
 Stock_pig,存栏量_猪,Numbers of stocks of pigs.,猪的存栏量,10000 heads,万头
-Stock_birds,存栏量_禽类,Numbers of stocks of birds. Areas data estimated by (each year's 'Slau_birds' of cn / each year's 'Stock_birds' of cn = 'Slau_birds' in areas of same year / 'Stock_birds' in areas of same year).,禽类的存栏量；无地方数据,10000 heads,万头
+Stock_birds,存栏量_禽类,Numbers of stocks of birds. Areas data estimated by (each year's 'Slau_birds' of cn / each year's 'Stock_birds' of cn = 'Slau_birds' in areas of same year / 'Stock_birds' in areas of same year).,禽类的存栏量；地方数据根据 (每年全国'Slau_birds' / 每年全国'Stock_birds' of cn = 同年各地'Slau_birds' /同年各地'Stock_birds') 估算,10000 heads,万头
 Slau_cattle,屠宰量_牛,Numbers of slaughtered cattle for meat.,牛的屠宰数量（出栏量）,10000 heads,万头
 Slau_gt_shp,屠宰量_山羊&绵羊,Numbers of slaughtered goats and sheep for meat.,山羊和绵羊的屠宰数量（出栏量）,10000 heads,万头
 Slau_pig,屠宰量_猪,Numbers of slaughtered pigs for meat.,猪的屠宰数量（出栏量）,10000 heads,万头
@@ -18,7 +18,7 @@ MilkProd_cow,奶产量_牛,Weights of fresh milk produced by cow.,新鲜牛奶�
 MeatYield_cattle,单位产量_牛,"Mean value of weights of meat from each cattle, areas data estimated by ('MeatProd_cattle' / 'Slau_cattle').",平均每头牛的产肉量，地方数据通过 (‘肉产量_牛’ / ‘屠宰量_牛’) 估算,10000 tonnes,万吨
 MeatYield_gt_shp,单位产量_山羊&绵羊,"Mean value of weights of meat from each goat or sheep, areas data estimated by ('MeatProd_gt_shp' / 'Slau_gt_shp').",平均每只山羊或绵羊的产肉量，地方数据通过 (‘肉产量_山羊&绵羊’ / ‘屠宰量_山羊&绵羊’) 估算,10000 tonnes,万吨
 MeatYield_pig,单位产量_猪,"Mean value of weights of meat from each pig, areas data estimated by ('MeatProd_pig' / 'Slau_pig').",平均每只猪的产肉量，地方数据通过 (‘肉产量_猪’ / ‘屠宰量_猪’) 估算,10000 tonnes,万吨
-MeatYield_birds,单位产量_禽类,Mean value of weights of meat from each bird. Mainly from chicken and duck. No areas data while is replaced with the national data.,平均每只禽类的产肉量，主要包括鸡和鸭，无地方数据,10000 tonnes,万吨
+MeatYield_birds,单位产量_禽类,Mean value of weights of meat from each bird. Mainly from chicken and duck. No areas data while is replaced with the national data.,平均每只禽类的产肉量，主要包括鸡和鸭，无地方数据，用全国平均值代入 (即代入当年的此项的国家值),10000 tonnes,万吨
 AquSum,水产总量,Total weights of aquatic productions.,水产品总产量,10000 tonnes,万吨
 AquMeat,水产肉类量,"Weights of aquatic meat, estimated by ('AquSum' - 'AquSW_algae')",肉类水产品产量，通过 (水产总量 - 海水产量_藻类) 估算,10000 tonnes,万吨
 AquSW,海水产量,Weights of aquatic productions produced in sea water.,来自海水的水产品产量,10000 tonnes,万吨
