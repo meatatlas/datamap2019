@@ -1,0 +1,20 @@
+Field name,中文解释,Explanation,单位: Unit
+Area,地区 (省级),Area (provincial),Nan
+Year,年份,Year,Nan
+Aqu_sum,水产总产量,Aquatic total yield (sea&fresh water),万吨: 10000 t
+AquSW,海产品产量,Aquatic yield from sea water (fish&crust&shell&algae&other; catching&aquaculture),万吨: 10000 t
+AquSW_grow,海产品捕捞产量,Aquatic yield by catching from sea water,万吨: 10000 t
+AquSW_cult,海产品养殖产量,Aquatic yield by aquaculture in sea water,万吨: 10000 t
+AquSW_fish,海洋鱼类产量,Fish yield from sea water,万吨: 10000 t
+AquSW_crust,海洋虾蟹产量,Crab&shrimp yield from sea water,万吨: 10000 t
+AquSW_shell,海洋贝类产量,Shellfish yield from sea water,万吨: 10000 t
+AquSW_algae,海洋藻类产量,Algae yield from sea water,万吨: 10000 t
+AquSW_other,海产品其他产量,Other yield from sea water,万吨: 10000 t
+AquFW,淡水产品产量,Aquatic yield from fresh water (fish&crust&shell&other; catching&aquaculture),万吨: 10000 t
+AquFW_grow,淡水捕捞产量,Aquatic yield by catching from fresh water,万吨: 10000 t
+AquFW_cult,淡水养殖产量,Aquatic yield by aquaculture in fresh water,万吨: 10000 t
+AquFW_fish,淡水鱼类产量,Fish yield from fresh water,万吨: 10000 t
+AuFW_crust,淡水虾蟹产量,Crab&shrimp yield from fresh water,万吨: 10000 t
+AquFW_shell,淡水贝类产量,Shellfish yield from fresh water,万吨: 10000 t
+AquFW_other,淡水其他产量,Other yield from fresh water,万吨: 10000 t
+CNFC,中国水产集团总公司,China National Fisheries Corp.,万吨：10000 t
