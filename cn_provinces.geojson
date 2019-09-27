@@ -3542,7 +3542,7 @@
       "id": 4,
       "properties": {
         "GEO_ID": 54,
-        "NAME": "Tibet"
+        "NAME": "Xizang"
       },
       "geometry": {
         "type": "Polygon",
@@ -22828,7 +22828,7 @@
       "id": 25,
       "properties": {
         "GEO_ID": 15,
-        "NAME": "Inner Mongolia"
+        "NAME": "Neimenggu"
       },
       "geometry": {
         "type": "Polygon",
